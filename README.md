@@ -78,26 +78,7 @@ He participado en proyectos del sector financiero, trabajando con servicios Java
 |**Backend & Full Stack**                  |Soluciones con Spring Boot, React, bases de datos SQL/NoSQL y Redis.              |
 |**Sistemas empresariales · Grupo Salinas**|Desarrollo de servicios, seguridad e integración de aplicaciones.                 |
 
-## 🌍 Código abierto
-
-> **Quiero aprender contribuyendo a software que otras personas utilizan.**
-
-Actualmente estoy en contacto con la comunidad de **Apache OpenOffice** para explorar aportaciones en **pruebas funcionales, reporte de errores, documentación y mantenimiento de Java**\.
-
-**Áreas en las que quiero contribuir:**
-
-`Java` · `Bug fixing` · `Testing` · `Documentation` · `Open Source`
-
 ---
-
-## 📊 Actividad en GitHub
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fabianvs1997&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianvs1997&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Lenguajes más utilizados" />
-
-  <p><sub>Las estadísticas dependen de servicios externos y pueden tardar en cargar.</sub></p>
 
 </div>
 
