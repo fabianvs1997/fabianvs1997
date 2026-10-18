@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-- 🧑‍💻 Desarrollador **Full Stack** (sistema de gestión de equipos Starlink).
+- 🧑‍💻 Desarrollador **Full Stack**
 - ☕ Especializado en **Java + Spring Boot** y arquitectura de **microservicios**.
 - 🔐 Apasionado por la **seguridad**, cifrado (RSA, AES), autenticación **JWT** y buenas prácticas.
 - ☁️ Experiencia desplegando en la nube con **AWS**, Docker y pipelines CI/CD.
