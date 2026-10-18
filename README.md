@@ -9,7 +9,7 @@
   <p>
     <a href="mailto:fabian.int1997@outlook.com"><img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-0E7490?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/fabianvs1997"><img src="https://img.shields.io/badge/GitHub-fabianvs1997-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Hidalgo%2C%20M%C3%A9xico-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="CDMX, México" />
+    <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-CDMX%2C%20M%C3%A9xico-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="CDMX, México" />
   </p>
 
   <p><em>Construyendo soluciones útiles, aprendiendo continuamente y colaborando con la comunidad.</em></p>
