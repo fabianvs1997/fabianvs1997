@@ -73,7 +73,7 @@ He participado en proyectos del sector financiero, trabajando con servicios Java
 
 |Área                                      |Experiencia                                                                       |
 |:-----------------------------------------|:---------------------------------------------------------------------------------|
-|**Soporte Java L2/L3 · Indra / Citibank** |Diagnóstico de incidencias, análisis de logs, stack traces, métricas y causa raíz.|
+|**Soporte Java L3 · Indra / Citibank**    |Diagnóstico de incidencias, análisis de logs, stack traces, métricas y causa raíz.|
 |**Desarrollo Java · IDS / Citibank**      |Microservicios, integraciones REST/SOAP, SQL Server, Jenkins y OpenShift.         |
 |**Backend & Full Stack**                  |Soluciones con Spring Boot, React, bases de datos SQL/NoSQL y Redis.              |
 |**Sistemas empresariales · Grupo Salinas**|Desarrollo de servicios, seguridad e integración de aplicaciones.                 |
